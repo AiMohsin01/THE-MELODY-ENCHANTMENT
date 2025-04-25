@@ -1,6 +1,7 @@
 #The Melody Enchantment
 
 
+
 The Melody Enchantment is a simple yet efficient music album management system built using the C programming language. It allows users to track, add, edit, or delete album records with ease. The project focuses on managing music album information in a structured and user-friendly way.
 
 🔧 Features:
