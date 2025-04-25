@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652380042 source:d:\cse 115\the hypertext assasins\the melody enchantment\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
